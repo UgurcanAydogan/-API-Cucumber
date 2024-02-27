@@ -10,4 +10,3 @@ Feature:
     Then kullanici donen cevapta userid degerinin 5 oldugunu test eder
     And kullanici donen cevapta title degerinin "optio dolor molestias sit" oldugunu test eder
 
-
